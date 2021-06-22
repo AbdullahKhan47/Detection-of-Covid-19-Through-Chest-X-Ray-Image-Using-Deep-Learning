@@ -9,7 +9,9 @@ Flow of the Project
 Browse image from the system . Select the image and Test the image . 
 
 
-It works this type of Chest X-rays images. 1-s2 0-S1684118220300608-main pdf-001
+It works this type of Chest X-rays images. 
+![094](https://user-images.githubusercontent.com/72974690/122895398-82856200-d361-11eb-803a-ed59fc5f67ea.png)
+
 
 Requirements:
 Any Python Compiler
